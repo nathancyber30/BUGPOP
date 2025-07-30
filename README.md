@@ -26,7 +26,7 @@
 
 ---
 
-## 👾 Powered by Gen-Z (Nathan & ChatGPT)
+## 👾 Powered by Gen-Z 
 
 > "Web Security Platform for Gen-Z"
 
